@@ -222,10 +222,12 @@ Experience and additional info styles
 
 .additional-info {
   flex: 1 1 40%;
+  margin-left: 120px;
 }
 
 .additional-info__education {
   margin-bottom: 20px;
+ 
 }
 
 .additional-info__education-header {
